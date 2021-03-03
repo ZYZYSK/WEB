@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: white;
+    background-color: red;
+}
+p{
+    color: blue;
+    background-color: white;
+}
+#table{
+    color:black;
+    background-color: antiquewhite;
+}
+.s1{
+    color:blue;
+    background-color: white;
+}
+.s2{
+    color:white;
+    background-color: blue;
+}
